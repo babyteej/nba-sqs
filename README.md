@@ -10,6 +10,11 @@ Most shooting efficiency metrics describe outcomes but ignore how shots were cre
 
 ---
 
+## Visualisations
+
+![PPSA Analysis](assets/ppsa_analysis.png)
+![SQS Analysis](assets/sqs_analysis.png)
+
 ## The question
 
 How do you evaluate shooting efficiency in a way that accounts for shot quality — both the difficulty of creation and the value of the locations being targeted?
